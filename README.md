@@ -1,5 +1,5 @@
 # DL-projects
-Deep learning tasks done during Y-data program for data science.
+Deep learning tasks done during Y-data program for data science.   
 Done together with *Tatiana Barladayan*.    
 Credit: *Omri Aallouche* and *Anna Lapidus*.
 
