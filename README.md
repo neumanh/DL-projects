@@ -1,7 +1,7 @@
 # DL-projects
 Deep learning tasks done during Y-data program for data science.   
 Done together with *Tatiana Barladayan*.    
-Credit: *Omri Aallouche* and *Anna Lapidus*.
+Credit: *Omri Aallouche*, *Inbar Huberman-Spiegelglas* and *Anna Lapidus*.
 
 
 ## Computer Vision
